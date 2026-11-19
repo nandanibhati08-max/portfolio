@@ -1,0 +1,12 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect width="100" height="100" rx="12" fill="#171c16"/>
+  <path d="M50 7 L90 28 L84 72 L50 94 L16 72 L10 28 Z"
+        fill="#343d2d" stroke="#c8b994" stroke-width="2"/>
+  <text x="50" y="59"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="29"
+        font-weight="bold"
+        fill="#e8dfca">NB</text>
+</svg>
